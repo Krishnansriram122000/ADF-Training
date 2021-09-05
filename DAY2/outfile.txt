@@ -1,0 +1,54 @@
+The input file contents separated by vowels: 
+N w  s th  w nt r  f   r d sc nt nt
+M d  gl r   s s mm r by th s s n  f Y rk;
+ nd  ll th  cl  ds th t l  r'd  p n   r h  s 
+ n th  d  p b s m  f th   c  n b r  d.
+N w  r    r br ws b  nd w th v ct r   s wr  ths;
+  r br  s d  rms h ng  p f r m n m nts;
+  r st rn  l r ms ch ng d t  m rry m  t ngs,
+  r dr  df l m rch s t  d l ghtf l m  s r s.
+Gr m-v s g d w r h th sm  th'd h s wr nkl d fr nt;
+ nd n w,  nst  d  f m  nt ng b rd d st  ds
+T  fr ght th  s  ls  f f  rf l  dv rs r  s,
+H  c p rs n mbly  n   l dy's ch mb r
+T  th  l sc v   s pl  s ng  f   l t .
+B t  , th t  m n t sh p d f r sp rt v  tr cks,
+N r m d  t  c  rt  n  m r  s l  k ng-gl ss;
+ , th t  m r d ly st mp'd,  nd w nt l v 's m j sty
+T  str t b f r    w nt n  mbl ng nymph;
+ , th t  m c rt  l'd  f th s f  r pr p rt  n,
+r c c 
+
+
+Each word's third letter capitalised: 
+NoW is thE wiNter of ouR diScontent MaDe glOrious suMmer by thIs suN of YoRk; AnD alL thE clOuds thAt loUr'd upOn ouR hoUse In thE deEp boSom of thE ocEan buRied. NoW arE ouR brOws boUnd wiTh viCtorious wrEaths; OuR brUised arMs huNg up foR moNuments; OuR stErn alArums chAnged to meRry meEtings, OuR drEadful maRches to deLightful meAsures. GrIm-visaged waR haTh smOoth'd hiS wrInkled frOnt; AnD noW, inStead of moUnting baRded stEeds To frIght thE soUls of feArful adVersaries, He caPers niMbly in a laDy's chAmber To thE laScivious plEasing of a luTe. BuT I, thAt am noT shAped foR spOrtive trIcks, NoR maDe to coUrt an amOrous loOking-glass; I, thAt am ruDely stAmp'd, anD waNt loVe's maJesty To stRut beFore a waNton amBling nyMph; I, thAt am cuRtail'd of thIs faIr prOportion, raCecar 
+
+
+Every fifth word capitalised: 
+Now is the winter OF our discontent Made glorious SUMMER by this sun of YORK; And all the clouds THAT lour'd upon our house IN the deep bosom of THE ocean buried. Now are OUR brows bound with victorious WREATHS; Our bruised arms hung UP for monuments; Our stern ALARUMS changed to merry meetings, OUR dreadful marches to delightful MEASURES. Grim-visaged war hath smooth'd HIS wrinkled front; And now, INSTEAD of mounting barded steeds TO fright the souls of FEARFUL adversaries, He capers nimbly IN a lady's chamber To THE lascivious pleasing of a LUTE. But I, that am NOT shaped for sportive tricks, NOR made to court an AMOROUS looking-glass; I, that am RUDELY stamp'd, and want love's MAJESTY To strut before a WANTON ambling nymph; I, that AM curtail'd of this fair PROPORTION, racecar 
+
+
+Spaces replaced by '-' : 
+Now-is-the-winter-of-our-discontent
+Made-glorious-summer-by-this-sun-of-York;
+And-all-the-clouds-that-lour'd-upon-our-house
+In-the-deep-bosom-of-the-ocean-buried.
+Now-are-our-brows-bound-with-victorious-wreaths;
+Our-bruised-arms-hung-up-for-monuments;
+Our-stern-alarums-changed-to-merry-meetings,
+Our-dreadful-marches-to-delightful-measures.
+Grim-visaged-war-hath-smooth'd-his-wrinkled-front;
+And-now,-instead-of-mounting-barded-steeds
+To-fright-the-souls-of-fearful-adversaries,
+He-capers-nimbly-in-a-lady's-chamber
+To-the-lascivious-pleasing-of-a-lute.
+But-I,-that-am-not-shaped-for-sportive-tricks,
+Nor-made-to-court-an-amorous-looking-glass;
+I,-that-am-rudely-stamp'd,-and-want-love's-majesty
+To-strut-before-a-wanton-ambling-nymph;
+I,-that-am-curtail'd-of-this-fair-proportion,
+racecar
+
+
+new line replaced by ';' : 
+Now is the winter of our discontent;Made glorious summer by this sun of York;;And all the clouds that lour'd upon our house;In the deep bosom of the ocean buried.;Now are our brows bound with victorious wreaths;;Our bruised arms hung up for monuments;;Our stern alarums changed to merry meetings,;Our dreadful marches to delightful measures.;Grim-visaged war hath smooth'd his wrinkled front;;And now, instead of mounting barded steeds;To fright the souls of fearful adversaries,;He capers nimbly in a lady's chamber;To the lascivious pleasing of a lute.;But I, that am not shaped for sportive tricks,;Nor made to court an amorous looking-glass;;I, that am rudely stamp'd, and want love's majesty;To strut before a wanton ambling nymph;;I, that am curtail'd of this fair proportion,;racecar

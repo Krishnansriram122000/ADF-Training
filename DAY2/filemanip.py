@@ -10,6 +10,9 @@ for word in wordsinfile:
 for word in wordsinfile:
 	count_ing+= 1 if word[-3:]=="ing" else 0
 
+print("Words that starts with 'to' : "+str(count_to))
+print("Words that end with 'ing' : "+str(count_ing))
+
 countdic={}
 maxcount=0
 maxword=''
@@ -21,50 +24,75 @@ for word in wordsinfile:
 	if countdic[word]>maxcount:
 		maxcount=countdic[word]
 		maxword=word
-print(maxword,maxcount)
+print("The words that appears maximum is: "+maxword+".\nAnd its count is: "+str(maxcount))
 
+#print(countdic)
+print("The palindromes present in the list are: ")
 for word in wordsinfile:
-	mid=len(word)
-	if mid%2==0 and word[:mid]==word[mid:]:
-		print(word)
-	elif mid%2==1 and word[:mid]==word[mid+1:]:
-		print(word)
+	if len(word)!=1:
+		word1=word[::-1]
+		if word==word1:
+			print(word)
 
 uniqlst=[]
-
 for word in wordsinfile:
 	if word not in uniqlst:
 		uniqlst.append(word)
-print(uniqlst)
+print("The unique words in the file are: ")
+print("\t".join(uniqlst))
 
-"""
 
-word dict f in q
-
-"""
 fdictionary={}
 for i,word in enumerate(wordsinfile):
 	fdictionary[i+1]=word
 
+print("The dictionary with word number is: ")
+print(fdictionary)
 
+outfilename='outfile'
+outfileextension='.txt'
+counterval=1
+while os.path.isfile(outfilename+outfileextension):
+	outfilename='outfile'+str(counterval)
+	counterval+=1
+
+outfile=open(outfilename+outfileextension,'w+')
+outfile.write("The input file contents separated by vowels: \n")
 stri=''
 vowel=['a','e','i','o','u','A','E','I','O','U']
-outfile=open('outfile.txt','w+')
 for i in infile:
 	if i in vowel:
-		outfile.write(stri+"\t")
+		outfile.write(stri+" ")
 		stri=''
 	else:
 		stri+=i
 
+outfile.write("\n\n\n")
+
+outfile.write("Each word's third letter capitalised: \n")
+stri=''
 for word in wordsinfile:
 	if len(word)>2:
-		word[2].upper()
+		val=word
+		val=val[:2]+val[2].upper()+val[3:]
+		stri+=val+" "
+	else:
+		stri+=word+" "
 
+outfile.write(stri+"\n\n\n")
+
+outfile.write("Every fifth word capitalised: \n")
+stri=''
 for i,word in enumerate(wordsinfile):
-	if i==5:
-		word.upper()
+	if (i+1)%5==0:
+		stri+=word.upper()+" "
+	else:
+		stri+=word+" "
+	
 
+outfile.write(stri+"\n\n\n")
+
+outfile.write("Spaces replaced by '-' : \n")
 stri=''
 for i in infile:
 	if i==' ':
@@ -72,6 +100,9 @@ for i in infile:
 	else:
 		stri+=i
 
+outfile.write(stri+"\n\n\n")
+
+outfile.write("New line replaced by ';' : \n")
 stri=''
 for i in infile:
 	if i=="\n":
@@ -79,19 +110,9 @@ for i in infile:
 	else:
 		stri+=i
 
-outfilename='outfile'
-counterval=0
-while not os.path.isfile(outfilename+'.txt'):
-	outfilename+=counterval
-	counterval+=1
+outfile.write(stri+"\n")
+outfile.close()
 
-fileout=open(outfilename,'w+')
-"""
-
-output with unique file name
-
-
-"""
 
 
 
