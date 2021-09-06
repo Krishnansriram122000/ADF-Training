@@ -1,0 +1,27 @@
+2021-09-06 15:18:02 WARNING - Read data from Input file
+2021-09-06 15:18:02 WARNING - Empty Output file
+2021-09-06 15:18:02 WARNING - Read data from Input file
+2021-09-06 15:18:02 WARNING - Written data to Output file
+2021-09-06 15:18:02 WARNING - Read data from Output file
+2021-09-06 15:18:02 WARNING - Empty Output file
+2021-09-06 15:18:02 WARNING - Read data from Input file
+2021-09-06 15:18:02 WARNING - Written data to Output file
+2021-09-06 15:18:02 WARNING - Read data from Output file
+2021-09-06 15:18:02 WARNING - Empty Output file
+2021-09-06 15:18:02 WARNING - Read data from Input file
+2021-09-06 15:18:02 WARNING - Written data to Output file
+2021-09-06 15:18:02 WARNING - Read data from Output file
+2021-09-06 15:27:28 WARNING - krishnan@adf has accessed the file inputfile.txt
+2021-09-06 15:27:28 WARNING - Read data from Input file
+2021-09-06 15:27:28 WARNING - Empty Output file
+2021-09-06 15:27:28 WARNING - Read data from Input file
+2021-09-06 15:27:28 WARNING - Written data to Output file
+2021-09-06 15:27:28 WARNING - Read data from Output file
+2021-09-06 15:27:28 WARNING - Empty Output file
+2021-09-06 15:27:28 WARNING - Read data from Input file
+2021-09-06 15:27:28 WARNING - Written data to Output file
+2021-09-06 15:27:28 WARNING - Read data from Output file
+2021-09-06 15:27:28 WARNING - Empty Output file
+2021-09-06 15:27:28 WARNING - Read data from Input file
+2021-09-06 15:27:28 WARNING - Written data to Output file
+2021-09-06 15:27:28 WARNING - Read data from Output file

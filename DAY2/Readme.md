@@ -33,7 +33,7 @@ Instructions to user who excutes the program:
 2. Add is a the environment variable.
 3. Download the program at a specific folder and go to the folder in command line.
 4. Place the file to be processed in the same location as the program.
-5. Execute the command "python 'inputfile' " (Replace the 'inputfile' with the file to be processed).
+5. Execute the command "python filemanip.py 'inputfile' " (Replace the 'inputfile' with the file to be processed).
 6. You can view some output in commandline and the rest of the processing in a file in the same folder.
 7. Each time you execute the file, a new output file is created.
 

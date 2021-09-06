@@ -67,7 +67,7 @@ for i in infile:
 	else:
 		stri+=i
 
-outfile.write("\n\n\n")
+outfile.write(stri+"\n\n\n")
 
 outfile.write("Each word's third letter capitalised: \n")
 stri=''
