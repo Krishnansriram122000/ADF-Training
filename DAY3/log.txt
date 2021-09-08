@@ -25,3 +25,115 @@
 2021-09-06 15:27:28 WARNING - Read data from Input file
 2021-09-06 15:27:28 WARNING - Written data to Output file
 2021-09-06 15:27:28 WARNING - Read data from Output file
+2021-09-06 17:58:40 WARNING - krishnan@adf has accessed the file inputfile.txt
+2021-09-06 17:58:40 WARNING - Read data from Input file
+2021-09-06 17:58:40 WARNING - Empty Output file
+2021-09-06 17:58:40 WARNING - Read data from Input file
+2021-09-06 17:58:40 WARNING - Written data to Output file
+2021-09-06 17:58:40 WARNING - Read data from Output file
+2021-09-06 17:58:40 WARNING - Empty Output file
+2021-09-06 17:58:40 WARNING - Read data from Input file
+2021-09-06 17:58:40 WARNING - Written data to Output file
+2021-09-06 17:58:40 WARNING - Read data from Output file
+2021-09-06 17:58:40 WARNING - Empty Output file
+2021-09-06 17:58:40 WARNING - Read data from Input file
+2021-09-06 17:58:40 WARNING - Written data to Output file
+2021-09-06 17:58:40 WARNING - Read data from Output file
+2021-09-07 17:38:48 WARNING - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 17:38:48 WARNING - Read data from Input file
+2021-09-07 17:38:48 WARNING - Empty Output file
+2021-09-07 17:38:48 WARNING - Read data from Input file
+2021-09-07 17:38:48 WARNING - Written data to Output file
+2021-09-07 17:38:48 WARNING - Read data from Output file
+2021-09-07 17:38:48 WARNING - Empty Output file
+2021-09-07 17:38:48 WARNING - Read data from Input file
+2021-09-07 17:38:48 WARNING - Written data to Output file
+2021-09-07 17:38:48 WARNING - Read data from Output file
+2021-09-07 17:38:48 WARNING - Empty Output file
+2021-09-07 17:38:48 WARNING - Read data from Input file
+2021-09-07 17:38:48 WARNING - Written data to Output file
+2021-09-07 17:38:48 WARNING - Read data from Output file
+2021-09-07 17:44:06 WARNING - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 17:44:06 WARNING - Read data from Input file
+2021-09-07 17:44:06 WARNING - Empty Output file
+2021-09-07 17:44:06 WARNING - Read data from Input file
+2021-09-07 17:44:06 WARNING - Written data to Output file
+2021-09-07 17:44:06 WARNING - Read data from Output file
+2021-09-07 17:44:06 WARNING - Empty Output file
+2021-09-07 17:44:06 WARNING - Read data from Input file
+2021-09-07 17:44:06 WARNING - Written data to Output file
+2021-09-07 17:44:06 WARNING - Read data from Output file
+2021-09-07 17:44:06 WARNING - Empty Output file
+2021-09-07 17:44:06 WARNING - Read data from Input file
+2021-09-07 17:44:06 WARNING - Written data to Output file
+2021-09-07 17:44:06 WARNING - Read data from Output file
+2021-09-07 17:51:39 INFO - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 17:51:39 INFO - Read data from Input file
+2021-09-07 17:51:39 INFO - Empty Output file
+2021-09-07 17:51:39 INFO - Read data from Input file
+2021-09-07 17:51:39 INFO - Written data to Output file
+2021-09-07 17:51:39 INFO - Read data from Output file
+2021-09-07 17:51:39 INFO - Empty Output file
+2021-09-07 17:51:39 INFO - Read data from Input file
+2021-09-07 17:51:39 INFO - Written data to Output file
+2021-09-07 17:51:39 INFO - Read data from Output file
+2021-09-07 17:51:39 INFO - Empty Output file
+2021-09-07 17:51:39 INFO - Read data from Input file
+2021-09-07 17:51:39 INFO - Written data to Output file
+2021-09-07 17:51:39 INFO - Read data from Output file
+2021-09-07 18:15:50 INFO - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 18:15:50 INFO - Read data from Input file
+2021-09-07 18:15:50 INFO - Empty Output file
+2021-09-07 18:15:50 INFO - Read data from Input file
+2021-09-07 18:15:50 INFO - Written data to Output file
+2021-09-07 18:15:50 INFO - Read data from Output file
+2021-09-07 18:15:50 INFO - Empty Output file
+2021-09-07 18:15:50 INFO - Read data from Input file
+2021-09-07 18:15:50 INFO - Written data to Output file
+2021-09-07 18:15:50 INFO - Read data from Output file
+2021-09-07 18:15:50 INFO - Empty Output file
+2021-09-07 18:15:50 INFO - Read data from Input file
+2021-09-07 18:15:50 INFO - Written data to Output file
+2021-09-07 18:15:50 INFO - Read data from Output file
+2021-09-07 18:19:56 INFO - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 18:19:56 INFO - Read data from Input file
+2021-09-07 18:19:56 INFO - Empty Output file
+2021-09-07 18:19:56 INFO - Read data from Input file
+2021-09-07 18:19:56 INFO - Written data to Output file
+2021-09-07 18:19:56 INFO - Read data from Output file
+2021-09-07 18:19:56 INFO - Empty Output file
+2021-09-07 18:19:56 INFO - Read data from Input file
+2021-09-07 18:19:56 INFO - Written data to Output file
+2021-09-07 18:19:56 INFO - Read data from Output file
+2021-09-07 18:19:56 INFO - Empty Output file
+2021-09-07 18:19:56 INFO - Read data from Input file
+2021-09-07 18:19:56 INFO - Written data to Output file
+2021-09-07 18:19:56 INFO - Read data from Output file
+2021-09-07 18:33:04 INFO - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 18:33:04 INFO - Read data from Input file
+2021-09-07 18:33:04 INFO - Empty Output file
+2021-09-07 18:33:04 INFO - Read data from Input file
+2021-09-07 18:33:04 INFO - Written data to Output file
+2021-09-07 18:33:04 INFO - Read data from Output file
+2021-09-07 18:33:04 INFO - Empty Output file
+2021-09-07 18:33:04 INFO - Read data from Input file
+2021-09-07 18:33:04 INFO - Written data to Output file
+2021-09-07 18:33:04 INFO - Read data from Output file
+2021-09-07 18:33:04 INFO - Empty Output file
+2021-09-07 18:33:04 INFO - Read data from Input file
+2021-09-07 18:33:04 INFO - Written data to Output file
+2021-09-07 18:33:04 INFO - Read data from Output file
+2021-09-07 18:42:23 INFO - krishnan@adf has accessed the file .\inputfile.txt
+2021-09-07 18:42:23 INFO - Read data from Input file
+2021-09-07 18:42:23 INFO - Empty Output file
+2021-09-07 18:42:23 INFO - Read data from Input file
+2021-09-07 18:42:23 INFO - Written data to Output file
+2021-09-07 18:42:23 INFO - Read data from Output file
+2021-09-07 18:42:23 INFO - Empty Output file
+2021-09-07 18:42:23 INFO - Read data from Input file
+2021-09-07 18:42:23 INFO - Written data to Output file
+2021-09-07 18:42:23 INFO - Read data from Output file
+2021-09-07 18:42:23 INFO - Empty Output file
+2021-09-07 18:42:23 INFO - Read data from Input file
+2021-09-07 18:42:23 INFO - Written data to Output file
+2021-09-07 18:42:23 INFO - Read data from Output file
